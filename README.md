@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-sm&label=Profile Views&color=blue&style=flat" alt="sushant-sm" /> </p>
 
 
-[![Linkedin: sushant-sm](https://img.shields.io/badge/-sushant-sm-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-malvadakar/)](https://www.linkedin.com/in/sushant-malvadakar/)
+[![Linkedin:sushant-sm](https://img.shields.io/badge/sushant-sm-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-malvadakar/)](https://www.linkedin.com/in/sushant-malvadakar/)
 [![GitHub sushant-sm](https://img.shields.io/github/followers/sushant-sm?label=follow&style=social)](https://github.com/sushant-sm)
 
 
